@@ -55,9 +55,8 @@
   </table>
 
 + 당월 총 일수 = 32 - new Date(연, 월, 32).getDate()
-
   
-
+<br>
 ## Screenshot
 
 ![simple-calculator](https://github.com/usong2/simple-calendar/blob/master/img/calendar.jpg?raw=true)
